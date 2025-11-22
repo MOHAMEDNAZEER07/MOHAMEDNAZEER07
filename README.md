@@ -1,87 +1,60 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Yo, I'm Nazeer</h1>
-<p align="center">Engineering Student • Backend Dev • AI Nerd • Builder of Random Cool Stuff</p>
+<!-- Header -->
+<h1 align="center">👋 Hi there, I’m Mohamed Nazeer</h1>
+<p align="center">Engineering Student • Backend Developer • AI Enthusiast</p>
 
 ---
 
-<!-- Banner -->
+## 🔍 About Me
+I’m an engineering student at **Sri Eshwar College of Engineering** in Coimbatore, Tamil Nadu.  
+I love turning ideas into apps — from building backends with FastAPI to experimenting with AI & ML models.  
+If there’s a process I can automate or a system I can evaluate, count me in.
+
+---
+
+## 🚧 Projects in Motion
+- 🧠 **EvalModel** – A framework to evaluate LLM / RAG systems (yes, I’m making the judges for AI).  
+- 📄 **TalkToPDF-RAG** – Upload a PDF and chat with it like you’re texting a document.  
+- 🩺 **Skin Disease Classifier** – Vision + symptoms → diagnosis suggestions.  
+- 🤖 **Islamic Knowledge Bot** – Knowledge graph + embeddings + RAG to answer Islamic queries.
+
+---
+
+## 💡 Tech Stack & Tools
+**Backend**: FastAPI · Django · Node.js · REST · WebSockets  
+**Frontend**: Next.js · React · TailwindCSS  
+**AI/ML**: PyTorch · TensorFlow · SentenceTransformers · Gemini API · Hugging Face  
+**Databases & Storage**: PostgreSQL · MongoDB 
+**DevOps & Tools**: Git · VS Code · CUDA 
+
+---
+
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/banner.png" alt="banner" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MOHAMEDNAZEER07&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMEDNAZEER07&theme=radical" alt="GitHub Streak" height="150"/>
 </p>
 
 ---
 
-## ⚡ About Me
-I'm the kind of person who sees a random problem and immediately thinks,  
-*"Yeah… I can automate that."*  
-
-Right now I’m cooking up full-stack apps, building RAG systems, and experimenting with AI models that sometimes act smart… and sometimes act like they just woke up from a coma.
-
----
-
-## 🔥 What I'm Building
-- 🧪 **EvalModel** – An evaluator for RAG/LLM systems.  
-- 📚 **TalkToPDF-RAG** – Upload a PDF → Chat with it like it owes you answers.  
-- 🩺 **Skin Disease Classifier** – Deep learning + symptom chatbot.  
-- 🕌 **Islamic Knowledge Bot** – Using RAG + embeddings for authentic answers.  
+## 🎯 Featured Work
+- 🔧 **car-dealership** – Winter intern project: full stack JS app for car dealerships.  
+- 📊 **dataset** – Data work + preprocessing pipelines (details coming soon).  
+- 👀 More ideas in my backlog … and I like to start with a notebook + strong coffee.
 
 ---
 
-## 🚀 Tech Arsenal
-### 💻 Backend
-FastAPI • Django • Node.js • REST • WebSockets  
-
-### 🎨 Frontend
-Next.js • React • TailwindCSS  
-
-### 🤖 AI & ML
-PyTorch • TensorFlow • SentenceTransformers • Gemini API • HuggingFace  
-
-### 🗄 Databases
-PostgreSQL • MongoDB • Redis  
-
-### ⚙️ DevOps & Cloud
-Docker • AWS • Supabase • S3  
-
-### 🧰 Tools
-VS Code • Git • CUDA • Postman  
+## 🌱 Learning & Goals
+- 📦 MLOps & scalable model deployment  
+- 🧮 Distributed systems & high-performance backends  
+- 🎮 UX & design thinking for AI-powered apps  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="150"/>
-</p>
+## 📫 Let’s Connect
+mohamednazeer13579@gmail.com  
+Let’s chat about code, coffee, or both.
 
 ---
 
-## 📌 Featured Projects
-- 🚀 **LLM Evaluator** – Because models lie, someone has to keep them in check.  
-- ⚡ **AI Chatbots** – RAG, embeddings, memory, the whole deal.  
-- 🔍 **ML Classifiers** – Vision + symptoms → diagnosis suggestions.  
-- ☁️ **Cloud Workflows** – S3, Supabase, CI/CD experiments.  
-
----
-
-## 🌱 Learning & Leveling Up
-- MLOps & model optimization  
-- High-performance backend patterns  
-- Better UX for AI-powered apps  
-
----
-
-## 🔗 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img height="30" src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:YOUR_EMAIL"><img height="30" src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://your-portfolio.com"><img height="30" src="https://skillicons.dev/icons?i=webflow"/></a>
-</p>
-
----
-
-## 🧠 Fun Fact
-I break my own code more often than I break my fast — but hey, at least I fix both.
-
----
-
+## 🎉 Fun fact
+I break my own code more often than I break my fast — but hey, I fix both. 😉  
