@@ -9,7 +9,7 @@
 ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+AI+Engineer;B.E.+Computer+Science+Graduate;Building+Systems+That+Think;Open+to+Work+%E2%80%94+Let%27s+Build+Something." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=AI+Engineer;B.E.+Computer+Science+Graduate;Building+Systems+That+Think;Open+to+Work+%E2%80%94+Let%27s+Build+Something." alt="Typing SVG" />
 
 <br/>
 
@@ -31,7 +31,6 @@ degree: B.E. Computer Science & Engineering
 college: Sri Eshwar College of Engineering, Coimbatore
 status: Graduate | Actively Seeking Roles
 focus:
-  - Backend Engineering
   - AI / RAG Systems
   - LLM Evaluation Frameworks
 superpower: If it can be automated — I will automate it.
@@ -133,7 +132,7 @@ Structured data work and preprocessing pipelines for ML-ready datasets.
 
 ```json
 {
-  "backend":   ["FastAPI", "Django", "Node.js", "REST", "WebSockets"],
+  "backend":   ["FastAPI", "Django", "REST", "WebSockets"],
   "frontend":  ["Next.js", "React", "TailwindCSS"],
   "ai_ml":     ["PyTorch", "TensorFlow", "SentenceTransformers", "Gemini API", "HuggingFace"],
   "databases": ["PostgreSQL", "MongoDB"],
