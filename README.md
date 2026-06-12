@@ -1,17 +1,10 @@
 <div align="center">
 
-```
-███╗   ██╗ █████╗ ███████╗███████╗███████╗██████╗
-████╗  ██║██╔══██╗╚══███╔╝██╔════╝██╔════╝██╔══██╗
-██╔██╗ ██║███████║  ███╔╝ █████╗  █████╗  ██████╔╝
-██║╚██╗██║██╔══██║ ███╔╝  ██╔══╝  ██╔══╝  ██╔══██╗
-██║ ╚████║██║  ██║███████╗███████╗███████╗██║  ██║
-╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=MOHAMED%20NAZEER&fontSize=55&fontColor=00ff88&color=0:0d1117,50:1a1f2e,100:0d1117&stroke=00ff88&strokeWidth=1&animation=fadeIn&fontAlignY=65&descAlignY=85&desc=AI%20Engineer%20%C2%B7%20Open%20to%20Work&descSize=13&descColor=484f58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=AI+Engineer;B.E.+Computer+Science+Graduate;Building+Systems+That+Think;Open+to+Work+%E2%80%94+Let%27s+Build+Something." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=%2F%2F+hi%2C+i'm+Mohamed+Nazeer;AI+Engineer;B.Tech.+CS%26E+Graduate+%7C+Open+to+Work;Building+Systems+That+Think.;If+it+can+be+automated+%E2%80%94+I+will." alt="Typing SVG"/>
 
-<br/>
+![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 [![Email](https://img.shields.io/badge/Gmail-mohamednazeer13579%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamednazeer13579@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MOHAMEDNAZEER07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOHAMEDNAZEER07)
@@ -21,7 +14,7 @@
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<img align="right" width="360" src="https://github-readme-activity-graph.vercel.app/graph?username=MOHAMEDNAZEER07&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" />
 
 ## `> whoami`
 
@@ -164,14 +157,10 @@ Structured data work and preprocessing pipelines for ML-ready datasets.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MOHAMEDNAZEER07&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMEDNAZEER07&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="165" alt="Streak Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MOHAMEDNAZEER07&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMEDNAZEER07&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="165"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDNAZEER07&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" height="130" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDNAZEER07&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" height="130"/>
 
 </div>
 
@@ -194,7 +183,7 @@ Structured data work and preprocessing pipelines for ML-ready datasets.
 
 ```
 PING mohamednazeer @ gmail ...
-64 bytes received: ttl=fresh response_time=fast status=OPEN_TO_WORK
+64 bytes received: ttl=fresh  response_time=fast  status=OPEN_TO_WORK
 ```
 
 [![Gmail](https://img.shields.io/badge/Send%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamednazeer13579@gmail.com)
@@ -206,13 +195,12 @@ PING mohamednazeer @ gmail ...
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff88&height=100&section=footer&reversal=true" width="100%"/>
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MOHAMEDNAZEER07&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 
-```
-> exit
-// Thanks for visiting. Now go build something cool.
-```
+`> exit // thanks for visiting. now go build something.`
 
 </div>
